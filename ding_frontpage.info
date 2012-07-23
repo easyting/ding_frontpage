@@ -1,5 +1,4 @@
 core = "7.x"
-dependencies[] = "cache_actions"
 dependencies[] = "ctools"
 dependencies[] = "page_manager"
 description = "Provides a panel for the front page"
